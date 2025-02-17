@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\walla\\documents\\projetos dotnet\\emprestimo livros\\emprestimolivros\\emprestimolivros\\views\\login\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\login\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\walla\\documents\\projetos dotnet\\emprestimo livros\\emprestimolivros\\emprestimolivros\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\walla\\documents\\projetos dotnet\\emprestimo livros\\emprestimolivros\\emprestimolivros\\views\\login\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\login\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Migrations\\20250214144953_RenomeandoColunaUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmprestimoLivros\\Migrations\\20250214144953_RenomeandoColunaUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\walla\\documents\\projetos dotnet\\emprestimo livros\\emprestimolivros\\emprestimolivros\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\walla\\documents\\projetos dotnet\\emprestimo livros\\emprestimolivros\\emprestimolivros\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\walla\\documents\\projetos dotnet\\emprestimo livros\\emprestimolivros\\emprestimolivros\\services\\loginservice\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EB52E8-BFBD-4C4D-8436-59F567F8A081}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\services\\loginservice\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "EmprestimoLivros\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "EmprestimoLivros\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:46:36.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Registrar.cshtml",
               "DocumentMoniker": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Views\\Login\\Registrar.cshtml",
               "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Login\\Registrar.cshtml",
               "ToolTip": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Views\\Login\\Registrar.cshtml",
               "RelativeToolTip": "EmprestimoLivros\\Views\\Login\\Registrar.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T13:20:02.19Z",
+              "WhenOpened": "2025-02-15T16:52:58.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250214144953_RenomeandoColunaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Migrations\\20250214144953_RenomeandoColunaUsuario.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Migrations\\20250214144953_RenomeandoColunaUsuario.cs",
+              "ToolTip": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Migrations\\20250214144953_RenomeandoColunaUsuario.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Migrations\\20250214144953_RenomeandoColunaUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:49:53.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Models\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:39:58.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:39:55.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:05:17.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Services\\LoginService\\LoginService.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Services\\LoginService\\LoginService.cs",
+              "ToolTip": "C:\\Users\\walla\\Documents\\Projetos DotNet\\Emprestimo Livros\\EmprestimoLivros\\EmprestimoLivros\\Services\\LoginService\\LoginService.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Services\\LoginService\\LoginService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:56:12.704Z",
               "EditorCaption": ""
             }
           ]

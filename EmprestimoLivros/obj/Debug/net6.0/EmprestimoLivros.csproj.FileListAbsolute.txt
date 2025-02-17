@@ -82,3 +82,4 @@ C:\Users\walla\Documents\Projetos DotNet\Emprestimo Livros\EmprestimoLivros\Empr
 C:\Users\walla\Documents\Projetos DotNet\Emprestimo Livros\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\RBush.dll
 C:\Users\walla\Documents\Projetos DotNet\Emprestimo Livros\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\SixLabors.Fonts.dll
 C:\Users\walla\Documents\Projetos DotNet\Emprestimo Livros\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\walla\Documents\Projetos DotNet\Emprestimo Livros\EmprestimoLivros\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.sourcelink.json
